@@ -1,7 +1,7 @@
 ## tailwind
 ## html
 
-this is a amazing website
+this is a borka website
 
 
-live link:
+live link:  https://easha12345.github.io/borka-project/
